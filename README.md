@@ -1,6 +1,6 @@
 # iCE40-FPGA-Projects
 Hands-on experience with Lattice iCE40 FPGA and iCEStick development board
-Completed a comprehensive FPGA tutorial series, developing practical skills in digital design and hardware description languages:
+Completed a comprehensive FPGA tutorial series (https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb), developing practical skills in digital design and hardware description languages:
 
 ## Project 1: Basic Combinational Logic
 
